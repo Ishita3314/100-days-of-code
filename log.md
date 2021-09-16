@@ -10,9 +10,8 @@
     2) https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/counting-frog-paths-1abd84d5/ <br>
     3) https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/almost-golden-rectangular-1c9d72c0/ <br>
     
-**Thoughts:** Slow start, did basic things, difficult to manage college studies side by side. Need to work on my time management skills!
+**Thoughts:** Slow start, did basic things, difficult to manage college studies side by side. Need to work on my time management skills! <br>
 
-<br>
 ### Day 2: September 16th, 2021 
 
 **Today's Progress**: <br>
