@@ -12,8 +12,7 @@
     
 **Thoughts:** Slow start, did basic things, difficult to manage college studies side by side. Need to work on my time management skills!
 
-
-
+<br>
 ### Day 2: September 16th, 2021 
 
 **Today's Progress**: <br>
