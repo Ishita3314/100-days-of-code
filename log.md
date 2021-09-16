@@ -19,6 +19,7 @@
 -> -> Studied some more concepts of recursion and did  questions <br>
 ![image](https://user-images.githubusercontent.com/79104812/133665715-4c7f8c58-67d1-4105-821d-5b72de2384c6.png)
 <br>
+<br>
 -> Basic CSS (50%) from https://freecodecamp.org/learn/ <br>
     
 **Thoughts:** It's tough to attend college classes and complete assignments side by side. Need to seriously work on my time management skills! 
