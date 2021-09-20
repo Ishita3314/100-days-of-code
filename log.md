@@ -29,3 +29,12 @@
 -> Completed Basic CSS from https://freecodecamp.org/learn/Studied  <br> 
     
 **Thoughts:** I'll sound like a broken record, but I'll say it anyway, it's difficult to manage college classes and assignments. Urgent enhancement of time management skills required!
+
+### Day 3: September 20th, 2021 
+
+**Today's Progress**: <br>
+-> Memory Allocation<br>
+-> Recursion <br>
+-> CSS from https://freecodecamp.org/learn/Studied  <br> 
+    
+**Thoughts:** Enhancement of time management skills required!
