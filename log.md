@@ -30,7 +30,7 @@
     
 **Thoughts:** I'll sound like a broken record, but I'll say it anyway, it's difficult to manage college classes and assignments. Urgent enhancement of time management skills required!
 
-### Day 3: September 20th, 2021 
+### Day 4: September 20th, 2021 
 
 **Today's Progress**: <br>
 -> Memory Allocation<br>
@@ -38,3 +38,12 @@
 -> CSS from https://freecodecamp.org/learn/Studied  <br> 
     
 **Thoughts:** Enhancement of time management skills required!
+
+###Day 5: November 3rd, 2021
+
+**Today's Progress**: <br>
+https://twitter.com/IshitaS03/status/1455956523134296066?s=20
+Started Coderslang: Become a Software Engineer 
+Started with basic theory of JS and wrote some beginner code.
+
+**Thoughts:** Had neglected this for a lot of time, restarting 100DaysOfCode
