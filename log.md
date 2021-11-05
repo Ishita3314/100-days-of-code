@@ -51,9 +51,9 @@ Started with basic theory of JS and wrote some beginner code.
 ### Day 6: November 5th, 2021
 
 **Today's Progress**: <br>
--> Recursion
--> Cloud Computing
--> JS
+-> Recursion <br>
+-> Cloud Computing <br>
+-> JS <br>
 ![image](https://user-images.githubusercontent.com/79104812/140557784-9ac08c6a-8227-4223-bbf0-571b3ff4eb5c.png)
 
 **Thoughts:** Need to work hard!
