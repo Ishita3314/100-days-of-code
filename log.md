@@ -16,3 +16,17 @@
    
 **Thoughts:** Fun to develop, solve real-world problems, SDG Goals, and interact with team members XD Scared for first offline exams after 2 years of online college :') <br>
 
+### Day 3:  March 3rd, 2022
+
+**Today's Progress**: <br>
+-> https://twitter.com/IshitaJ50188924/status/1500206204106145793?s=20&t=oU_IYiw-t9xtJRAnybbeBg <br>
+   
+**Thoughts:** Fun to develop, solve real-world problems, SDG Goals, and interact with team members XD Scared for first offline exams after 2 years of online college :') <br>
+
+### Day 4 and 5:  March 3rd, 2022
+
+**Today's Progress**: <br>
+-> Ideathon and Designathon of Devcation 2022 by GDSC_IGDTUW <br>
+-> Ideation and Prototype for SIH2022_MIC, college level <br>
+   
+**Thoughts:** Coming days will be filled with CS core and dsa, to prepare for offline college exams! <br>
